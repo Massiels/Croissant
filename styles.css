@@ -20,10 +20,10 @@ a:-webkit-any-link {
 footer {
     text-align: center;
 }
-﻿.croissant-photo {
+.croissant-photo {
     max-width: 100%;
     border-radius: 10px;
-    margin: 300px auto;
+    display: block;
+    margin: 30px auto;
 }
-﻿
 
