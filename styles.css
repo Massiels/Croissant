@@ -1,3 +1,23 @@
 body {
     background: #f8e8a6;
 }
+
+
+element.style {
+}
+footer a {
+    margin: 0 10px;
+    color: green;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+footer {
+    text-align: center;
+}
+﻿
+﻿
+
